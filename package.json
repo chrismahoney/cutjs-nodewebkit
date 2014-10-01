@@ -1,0 +1,14 @@
+{
+	"name": "cutjs-nodewebkit",
+	"dependencies": {
+		"cutjs":"*",
+		"nodewebkit":"*",
+		"jquery": "1.11"
+	},
+	"main":"app/index.html",
+	"window": {
+		"icon": "app/img/JS.png",
+		"toolbar":true,				// false to remove address bar
+		"frame": true				// false to remove window frame
+	}
+}
